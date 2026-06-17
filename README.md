@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: June 17, 2026
+Last updated:  June 17, 2026
 
 This app collects and stores information that users choose to provide in order to deliver the app's functionality.
 
